@@ -4,7 +4,7 @@
 
 **Model based design and transmission analysis of multisection rod driven continuum robots using Cosserat rod theory**
 
-This repository contains selected media and summary data for a rod driven continuum robot modeling study. It provides numerical simulation videos, manuscript figures, simulation output plots, and compact result tables associated with the project.
+This repository contains selected media and summary data for a rod driven continuum robot modeling study. It provides numerical simulation videos and compact result tables associated with the project.
 
 ## Developer
 
@@ -16,7 +16,6 @@ Affiliation: **Fuyang Normal University, China**
 This repository provides:
 
 - Supplementary numerical simulation videos.
-- Manuscript level figures.
 - Compact CSV summary data.
 - Documentation describing the public release scope.
 
@@ -28,10 +27,6 @@ This repository is scoped to media and summary data. Executable modeling code, i
   Main supplementary videos showing the one section, two section, and three section numerical cases.
 - `videos/optional_context_videos/`
   Additional context videos for force curves and large deformation motions.
-- `figures/manuscript/`
-  Selected manuscript figures in PNG and PDF format.
-- `figures/simulation_outputs/`
-  Public simulation output snapshots and response plots.
 - `data/summary_csv/`
   Compact numerical summary tables exported from the numerical simulation workflow.
 - `docs/`

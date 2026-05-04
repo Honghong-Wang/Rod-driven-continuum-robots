@@ -8,7 +8,6 @@ Affiliation: Fuyang Normal University, China
 This public repository includes selected media and compact result data:
 
 - Simulation videos in MP4 format.
-- Manuscript figures in PNG and PDF format.
 - Aggregate CSV result tables.
 - Documentation and file manifests.
 

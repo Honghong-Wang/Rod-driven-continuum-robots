@@ -9,10 +9,6 @@ The `videos/` folder contains MP4 files showing selected numerical simulation ca
 
 The file `videos/video_manifest.csv` lists the video filenames and their short descriptions.
 
-## Figures
-
-The `figures/manuscript/` folder contains selected manuscript figures in PNG and PDF format. The `figures/simulation_outputs/` folder contains simulation output snapshots and response plots exported from the numerical workflow.
-
 ## Summary CSV data
 
 The `data/summary_csv/` folder contains compact result tables exported from the numerical simulation workflow. These tables report aggregate quantities such as error metrics, drive load summaries, design screening metrics, perturbation checks, and comparison data.

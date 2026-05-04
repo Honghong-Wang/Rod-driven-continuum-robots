@@ -3,7 +3,7 @@
 Developer: HH  
 Affiliation: Fuyang Normal University, China
 
-Unless otherwise noted, the public media, figures, and summary CSV data in this repository are released for academic viewing, citation, and non commercial research communication under the Creative Commons Attribution NonCommercial 4.0 International license.
+Unless otherwise noted, the public media and summary CSV data in this repository are released for academic viewing, citation, and non commercial research communication under the Creative Commons Attribution NonCommercial 4.0 International license.
 
 Recommended attribution:
 
