@@ -36,6 +36,8 @@ This repository is scoped to media and summary data. Executable modeling code, i
   Compact numerical summary tables exported from the numerical simulation workflow.
 - `docs/`
   Notes on video materials, data fields, and the release policy.
+- `release_archives/`
+  Downloadable zip archive containing the complete public media and summary data release.
 
 ## Suggested use
 
