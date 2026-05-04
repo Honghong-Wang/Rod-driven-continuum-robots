@@ -16,6 +16,7 @@ Affiliation: **Fuyang Normal University, China**
 This repository provides:
 
 - Supplementary numerical simulation videos.
+- Three selected final simulation summary figures.
 - Compact CSV summary data.
 - Documentation describing the public release scope.
 
@@ -27,6 +28,8 @@ This repository is scoped to media and summary data. Executable modeling code, i
   Main supplementary videos showing the one section, two section, and three section numerical cases.
 - `videos/optional_context_videos/`
   Additional context videos for force curves and large deformation motions.
+- `figures/simulation_outputs/`
+  Three selected final simulation summary figures for replay, robustness, and executable design refinement.
 - `data/summary_csv/`
   Compact numerical summary tables exported from the numerical simulation workflow.
 - `docs/`
