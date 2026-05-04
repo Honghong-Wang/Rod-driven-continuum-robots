@@ -9,7 +9,6 @@ Before uploading this folder to GitHub, check the following:
 - The repository contains only media, figures, summary CSV files, and documentation.
 - `README.md` clearly states that this is a media and summary data release.
 - `videos/video_manifest.csv` is present.
-- `MANIFEST.csv` is present at the repository root.
 - The license and citation files are present.
 
 Recommended GitHub repository name:
