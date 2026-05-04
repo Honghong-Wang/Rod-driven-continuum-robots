@@ -1,0 +1,17 @@
+solver,metric,value
+Generic FD reduced baseline,mean target error (mm),0.340640802225861
+Generic FD reduced baseline,max target error (mm),0.486317969274952
+Generic FD reduced baseline,mean Newton iterations,4.46887966804979
+Generic FD reduced baseline,max Newton iterations,7
+Generic FD reduced baseline,mean runtime per sample (ms),1107.81692904564
+Generic FD reduced baseline,max runtime per sample (ms),2052.9108
+Generic FD reduced baseline,converged ratio,1
+Proposed analytical replay,mean target error (mm),0.340640801359573
+Proposed analytical replay,max target error (mm),0.486317962552682
+Proposed analytical replay,mean Newton iterations,1.90871369294606
+Proposed analytical replay,max Newton iterations,2
+Proposed analytical replay,mean runtime per sample (ms),48.7232788381743
+Proposed analytical replay,max runtime per sample (ms),219.0303
+Proposed analytical replay,converged ratio,1
+FD / analytical,runtime speedup,22.7369125285074
+FD / analytical,iteration reduction factor,2.34130434782609

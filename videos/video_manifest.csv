@@ -1,0 +1,11 @@
+category,file,description,project_connection,included_in_core_set
+core,S1_single_section_coupled_vs_uncoupled_comparison.mp4,Single-section coupled-versus-uncoupled comparison,Auxiliary single-section validation and supplementary boundary check,yes
+core,S2_two_section_standard_spatial_circle_robot_with_disks.mp4,Standard two-section spatial-circle robot motion with disks,Two-section 6/3 planning-side transmission validation,yes
+core,S3_two_section_large_deformation_robot_with_disks.mp4,Large-deformation two-section spatial-circle robot motion,Large-deformation two-section planning-side validation,yes
+core,S4_two_section_incremental_equilibrium_replay_comparison.mp4,Planning-versus-incremental-equilibrium replay comparison,Command-to-equilibrium replay and quasi-static consistency analysis,yes
+core,S5_three_section_9_6_3_spatial_circle_robot_with_disks.mp4,Three-section nested 9/6/3 spatial-circle simulation,Multisection nested-routing extension,yes
+core,S6_three_section_9_6_3_chinese_knot_robot_with_disks.mp4,Three-section nested 9/6/3 Chinese-knot trajectory,Main three-section complex-trajectory numerical assessment,yes
+optional,O1_single_section_drive_force_curves.mp4,Single-section drive displacement and force-curve visualization,Optional background context,no
+optional,O2_two_section_planar_circle_drive_curves.mp4,Two-section planar-circle drive-curve visualization,Optional background context,no
+optional,O3_three_section_9_6_3_large_infinity_robot_with_disks.mp4,Extra large-motion 9/6/3 infinity-path visualization,Optional background context,no
+optional,O4_three_section_9_6_3_complex_large_optimized_robot_with_disks.mp4,Extra complex large-motion 9/6/3 visualization after smoothing or optimization,Optional background context,no

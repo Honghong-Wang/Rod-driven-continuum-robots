@@ -1,0 +1,6 @@
+case_name,replay_max_error_mm,max_force_N,constraint_failures
+"Nominal design",0.146908957943316,165.398293721419,0
+"Refined executable design",0.153643551834841,130.376448543398,0
+"Refined design, stiffness +/-5%",0.155306451243093,136.823970020739,0
+"Refined design, offset +/-0.2 mm",1.22516532110921,452.137010308662,6
+"Refined design, phase +/-5 deg",1.75279423771982,130.813944518304,0

@@ -1,0 +1,5 @@
+level,case_name,mean_error_mm,max_error_mm,max_force_N,max_drive_disp_mm,solver_detail
+1,9/6/3 Chinese-knot equilibrium replay,0.0364116158713997,0.0864005483042506,160.86236749159,2.88580125998203,"mean/max Newton iterations 1.95/2"
+2,execution-constraint audit,0,0,160.86236749159,2.88580125998203,"0 failed constraints"
+3,parameter-uncertainty robustness,1.36900738932446,2.07944718919015,177.078176625475,2.879266054243,"7 scenarios, downsampled"
+4,spatial trefoil equilibrium replay,0.0442947550067839,0.108811420869108,195.023195360619,3.38274835047295,"mean/max Newton iterations 1.94/2"

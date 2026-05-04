@@ -1,0 +1,2 @@
+resampling_factor,n_samples,replay_mean_error_mm,replay_max_error_mm,max_force_N,max_drive_disp_mm,max_step_disp_mm,max_step_force_N,step_disp_limit_mm,step_force_limit_N,constraint_utilization,constraint_failures,replay_exit_failures,execution_feasible
+5,266,0.0592266222259672,0.158096316594563,154.185761758685,2.58164063567161,0.148376178069926,13.5926292930827,0.18,18,0.856587565326028,0,0,1

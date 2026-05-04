@@ -1,0 +1,26 @@
+# Executable source and raw workspaces are outside this media/data release.
+*.m
+*.mlx
+*.mat
+*.asv
+*.fig
+*.slx
+*.mdl
+
+# Local editor and system files.
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local build and archive outputs.
+*.zip
+*.7z
+*.rar
+tmp/
+temp/
+private_code/
+internal/
+work/
+scratch/

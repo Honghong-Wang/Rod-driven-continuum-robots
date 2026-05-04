@@ -1,0 +1,4 @@
+design_label,source,drive_offset_mm,phase_step_deg,length_ratio_label,resampling_factor,replay_max_error_mm,max_force_N,max_drive_disp_mm,max_step_disp_mm,max_step_force_N,constraint_failures,execution_feasible,execution_score
+nominal design after temporal refinement,nominal,3.5,40,1:1:1,5,0.146908957943316,165.398293721419,2.74579544869617,0.149714275574031,14.6909106554377,0,1,2.87201916994527
+coarse selected design before temporal refinement,coarse_selected,3,60,0.8:1:1.2,1,0.150431517825469,154.331272924219,2.58416159677688,0.733965157141539,67.2337178548171,2,0,124.310935608437
+refined executable design,local_refined,3.4,60,0.75:1.00:1.25,6,0.153643551834841,130.376448543398,2.97457905860721,0.143456215408663,9.70476659380159,0,1,2.69031528075086

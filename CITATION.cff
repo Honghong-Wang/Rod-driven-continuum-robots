@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these public media or summary data, please cite this repository and the associated manuscript when available."
+title: "Public media and summary data for model based design and transmission analysis of multisection rod driven continuum robots"
+authors:
+  - name: "HH"
+    affiliation: "Fuyang Normal University, China"
+date-released: "2026-05-04"
+version: "2026.05.04-public-media"
+license: "CC-BY-NC-4.0"
